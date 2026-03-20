@@ -43,7 +43,7 @@ The objective was to enable stakeholders to:
 ## 🏗️ Architecture
 
 ```
-![Architecture.png](images/Architecture.png)
+Raw CSV Data --> Python (Data Cleaning & Transformation) --> MySQL Database (Storage & Querying) --> EDA (Jupyter Notebook) --> Power BI Dashboard (Visualization)
 ```
 
 ---
